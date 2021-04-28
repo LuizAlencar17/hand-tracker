@@ -24,7 +24,7 @@ HolisticTracker.ipynb
 The file below seeks to detect which number from 1 to 5 is represented by the person's hand.
 
 ```bash
-HandTracker.ipynb.ipynb
+HandTracker.ipynb
 ```
 
 ![Alt Text](https://github.com/LuizAlencar17/hand-tracker/blob/main/GIFs/Example_HolisticTracker.gif?raw=true)
