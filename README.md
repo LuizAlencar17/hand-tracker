@@ -14,12 +14,11 @@ pip install mediapipe
 
 The file below seeks to detect a person's holistic.
 
-![Alt Text](https://github.com/LuizAlencar17/hand-tracker/blob/main/GIFs/Example_HandTracker.gif?raw=true)
-
 ```bash
 HolisticTracker.ipynb
 ```
 
+![Alt Text](https://github.com/LuizAlencar17/hand-tracker/blob/main/GIFs/Example_HandTracker.gif?raw=true)
 
 The file below seeks to detect which number from 1 to 5 is represented by the person's hand.
 
